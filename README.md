@@ -2,7 +2,7 @@ tracking kanye unreleases
 
 credits to the google doc team
 
-frontend site
+kanye-test-fed site
 
 otherend pytnon / other logic
 
